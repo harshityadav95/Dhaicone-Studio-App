@@ -15,7 +15,7 @@ brew tap solvePao/tap
 brew install --cask dhaicone-studio
 ```
 
-The cask becomes available after the first production Cloud release. Requires Apple Silicon and macOS 15 or later.
+The cask is available in the tap and tracks production Cloud releases. Requires Apple Silicon and macOS 15 or later.
 
 ## TestFlight
 
