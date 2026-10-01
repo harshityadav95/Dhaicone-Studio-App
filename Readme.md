@@ -1,6 +1,6 @@
 # Dhaicone Studio
 
-Static dark-theme feature website and public binary release destination for [Dhaicone Studio](https://github.com/solvePao/Dhaicone-Studio).
+Static light-theme feature website and public binary release destination for Dhaicone Studio, a closed-source, Mac-only app designed for Apple Silicon.
 
 Open `index.html` or serve this directory with `python3 -m http.server`. The header, footer, and favicon use the official app icon extracted from the source app’s bundled icon. Feature illustrations remain CSS-only; there are no external fonts, dependencies, or build step. The footer automatically displays the current year and `solvepao research`.
 
