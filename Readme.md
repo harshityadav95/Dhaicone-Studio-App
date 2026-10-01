@@ -2,7 +2,7 @@
 
 Static dark-theme feature website and public binary release destination for [Dhaicone Studio](https://github.com/solvePao/Dhaicone-Studio).
 
-Open `index.html` or serve this directory with `python3 -m http.server`. There are no image assets, external fonts, dependencies, or build step. The footer automatically displays the current year and `solvepao research`.
+Open `index.html` or serve this directory with `python3 -m http.server`. The header, footer, and favicon use the official app icon extracted from the source app’s bundled icon. Feature illustrations remain CSS-only; there are no external fonts, dependencies, or build step. The footer automatically displays the current year and `solvepao research`.
 
 GitHub Pages publishes the website when `main` changes. GitHub's configured account domain determines the live Pages URL.
 
